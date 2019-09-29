@@ -1,4 +1,4 @@
-     	    Pislari Vadim 323CB TEMA 1 Protocoale de Comunicatii
+     	     Pislari Vadim 323CB Protocoale de Comunicatii
 		     Protocol cu Fereastra glisanta
 	Transmiterea eficienta a fisierului cu ajutorul ferestrei glisante
    se realizeaza in urmatorul fel: In primul rand se determina parametrii 
